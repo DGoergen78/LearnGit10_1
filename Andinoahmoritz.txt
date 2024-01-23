@@ -1,1 +1,1 @@
-print("deine Oma")
+Hallo ihr Muttersöhne :D
